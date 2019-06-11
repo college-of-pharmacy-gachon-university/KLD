@@ -1,6 +1,6 @@
 #  KLD-Pharmacological_Class_Similarity
 
-Collection of scripts for distinguishing two Pharmacological classes using Kullback-Leibler divergence from Tanimoto Coefficient distribution of each classes. 
+Collection of scripts for distinguishing two Pharmacological classes using Kullback-Leibler divergence from Tanimoto Coefficient structure of each classes. 
 
 ### (Requirements)
 This script is designed to run under Python 3.6 and Anaconda version 5.2.0
